@@ -1,0 +1,2 @@
+# fluxee
+Stream Management Suite
